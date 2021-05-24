@@ -1,4 +1,4 @@
-declare module 'base45' {
-    export function b45encode(buffer: ArrayBuffer): string;
-    export function b45decode(str: string): ArrayBuffer;
+declare module 'base45-js' {
+    export function encode(buffer: ArrayBuffer): string;
+    export function decode(str: string): ArrayBuffer;
 }
