@@ -26,7 +26,7 @@
       "url": "https://github.com/ehn-digital-green-development/base45/blob/master/LICENSE-ASF-2.0.txt"
     }
   ],
-  "main": "lib/base45",
+  "main": "lib/base45-js",
   "engines": {
     "node": ">= 0.6.0"
   },
